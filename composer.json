@@ -1,0 +1,18 @@
+{
+    "name": "test/cms",
+    "description": "just for test",
+    "authors": [
+        {
+            "name": "ali90122017",
+            "email": "aghahari@ymail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Test\\Cms\\" : "src/"
+        }
+    },
+    "require": {
+        "illuminate/Support": "~5"
+    }
+}
